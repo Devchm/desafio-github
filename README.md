@@ -1,5 +1,7 @@
-# Repositório do projeto desafio-github da Dio
-projeto Dio, criado especialmente para aprender sobre git e suas funções.
+# Repositório do projeto desafio-github da Dio.
+
+→ projeto Dio, criado especialmente para aprender sobre git e suas funções.
+→ Algumas dicas de atalhos Linux, para você que esta iniciando neste novo software.
 
 
 ## Links Úteis

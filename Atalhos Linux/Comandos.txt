@@ -1,0 +1,30 @@
+Sabemos que o  Linux é uma família inteira de sistemas operacionais Unix, que é baseado no Kernel do Linux.
+É importante aprender linhas de comandos básicos do Linux é uma das principais coisas que você deve saber, em seguida serão listados alguns comandos Linux de maior Notoriedade.
+
+
+PWD:Use o comando  para encontrar o caminho para o diretório atual (da pasta) em que você está. O comando vai retornar um caminho completo (cheio), que é basicamente um caminho que começa com uma barra inclinada (/). Um exemplo de um caminho completo é /home/username.
+
+CD:Use cd.. (com dois pontos seguidos) para mover um diretório acima.
+       cd para ir diretamente para a pasta home.
+       cd– (com um hífen) para mover para os diretórios anteriores.
+
+LS:é usado para visualizar conteúdos em um diretório.
+   ls -R vai listar todos os arquivos nos subdiretórios.
+   ls -a vai mostrar todos os arquivos ocultos.
+   ls -al vai listar todos os arquivos e diretórios com informações detalhadas como permissões, tamanho, proprietário, etc.
+
+CAT:Ele é usado para visualizar o conteúdo de um arquivo na saída padrão (sdout). Para executar esse comando, digite cat seguido pelo nome do arquivo e sua extensão. Por exemplo: cat file.text.
+
+CP:para copiar arquivo do diretório atual em que você estiver.
+
+MV:mover arquivos, ainda que ele possa também ser usado para renomear arquivos.
+
+MKDIR:para criar um novo diretório.
+
+RMDIR:permite que você apague diretórios vazios
+
+RM:para apagar um diretório e todos os conteúdos que estiverem lá dentro. 
+
+TOUCH:permite criar novos arquivos em branco através de uma linha de comando. Como exemplo, digite touch /home/username/Documents/Web.html para criar um arquivo HTML chamado Web dentro do diretório Documents.
+
+

@@ -1,0 +1,23 @@
+Algumas informações relevantes sobre o Git
+
+
+O git possui três elementos internos de suma importância que são:
+
+BLobs: É a parte que possui os metadados do Git, e tambem responsável por guardar o SHA1 dos arquivos.
+Tree: São responsáveis por armazenarem od blobs, mas por sua vez também podem armazenarem outras tree, este objeto também possuem seu próprio SHA1.
+Commit: eles pode apontar para uma tree, parente,autor ou messagem, o SHA1 deste commit é o bash de toda esta informação.
+
+
+
+A chave SHA1 é uma forma de estabelecer segura e encriptada entre duas máquinas.
+
+
+
+Comandos relevantes do Git:
+-> git init
+-> git config --global useremail ""
+-> git config --global user.name 
+-> git add .
+-> git commit -m "commit inicial"
+-> git push origin main
+-> git status
